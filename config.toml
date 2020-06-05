@@ -1,5 +1,5 @@
 theme = "harbor"
-baseurl = "https://panjarek.github.io"
+baseurl = "https://panjarek.github.io/"
 title = "Pewne Rzeczy"
 paginate = 3
 languageCode = "en"
